@@ -5,7 +5,7 @@ I grew up in Columbia, Missouri and I have always loved computers.
 
 **This is a list of my favorite things to do**
 
-* [Golf]
+* [Golf](Golf.READEME.md)
 * Workout
 * Hike
 * Read
