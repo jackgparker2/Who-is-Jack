@@ -7,7 +7,7 @@ This website will serve as an "About Me" page
 
 * [Golf](https://github.com/jackgparker2/My-golf-page.git) 
 * Workout
-* [Hike](Hiking)
+* [Hike](https://github.com/jackgparker2/My-hiking-page.git)
 * [Read](Reading)
 
 By clicking on some of the words in this list, you can find more information about these activities of mine
