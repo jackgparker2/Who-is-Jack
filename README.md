@@ -5,7 +5,7 @@ This website will serve as an "About Me" page
 
 **This is a list of my favorite things to do**
 
-* [Golf](https://github.com/jackgparker2/hello-world.git) 
+* [Golf](https://github.com/jackgparker2/My-golf-page.git) 
 * Workout
 * [Hike](Hiking)
 * [Read](Reading)
