@@ -1,6 +1,6 @@
-# Who-is-Jack
+# Who-is-John
 This website will serve as an "About Me" page
-# My name is Jack
+# My name is John, but I have always gone by Jack
 ### I grew up in Columbia, Missouri and I have always loved computers.  
 
 **This is a list of my favorite things to do**
