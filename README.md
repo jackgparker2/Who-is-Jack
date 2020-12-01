@@ -5,7 +5,7 @@ This website will serve as an "About Me" page
 
 **This is a list of my favorite things to do**
 
-* [Golf](Golf)
+* [Golf](jackgparker2/hello-world)
 * Workout
 * [Hike](Hiking)
 * [Read](Reading)
