@@ -13,3 +13,5 @@ This website will serve as an "About Me" page
 
 By clicking on some of the words in this list, you can find more information about these activities of mine
   
+Here is a link to a page that features code I have wirtten over this semester.  
+[Code]
